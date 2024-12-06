@@ -1,11 +1,8 @@
 
 
 <div align="center">
-        
 <img src="art/Export/logo.jpg" alt="Description" style="border-radius: 50px; width: 200px;">
-
 <h1>Demo</h1>
-
 </div>
 This is a pixel art game scene created using the Godot game engine. The environment is designed with a desert theme and features a mix of structures, characters, and objects that suggest a vibrant and interactive gameplay experience. Below are the key details about the scene:
 
