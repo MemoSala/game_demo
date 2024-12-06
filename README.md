@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" style="border: 2px solid red;">
         
-![Caveat Manager](art/Export/logo.jpg){: style="width:200px"}
+![Caveat Manager](art/Export/logo.jpg)
 
 </div>
 
-![Caveat Manager](art/Export/background.jpg){: style="width:200px"}
+![Caveat Manager](art/Export/background.jpg)
