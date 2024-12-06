@@ -1,6 +1,6 @@
 <div align="center">
         
-![Caveat Manager](art/Export/logo.jpg.jpg)
+![Caveat Manager](art/Export/logo.jpg)
         
 </div>
 
