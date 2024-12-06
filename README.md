@@ -12,22 +12,22 @@
 This is a pixel art game scene created using the Godot game engine. The environment is designed with a desert theme and features a mix of structures, characters, and objects that suggest a vibrant and interactive gameplay experience. Below are the key details about the scene:
 
 ### Features:
-1. Fortified Building:
+## 1. Fortified Building:
 - A square fort with stone walls and a wooden gate.
 - Decorative elements include shields and torches on the walls.
 - Characters standing on the ramparts, possibly NPCs or guards.
 
-2. Gameplay Area:
+## 2. Gameplay Area:
 - The interior of the fort has crates and white dashed outlines, suggesting interactable or movable objects.
 - A statue and fountain-like structure add to the immersive environment.
 
-3. Railroad Tracks:
+## 3. Railroad Tracks:
 - A section of railroad tracks near the bottom left adds an industrial or logistical element to the game.
 
-4. Graveyard:
+## 4. Graveyard:
 - Small gravestones scattered to the left of the fort give the scene a mysterious or historical touch.
 
-5. Characters and NPCs:
+## 5. Characters and NPCs:
 - Multiple pixel-art characters positioned around the map, possibly villagers or players interacting with the world.
 - The bottom-right area shows characters near arranged boxes, potentially engaging in trade or storytelling.
 
