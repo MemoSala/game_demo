@@ -8,7 +8,7 @@
 
 </div>
 
-<h1>Desert-Themed Pixel Art Game Description</h1>>
+#Desert-Themed Pixel Art Game Description
 This is a pixel art game scene created using the Godot game engine. The environment is designed with a desert theme and features a mix of structures, characters, and objects that suggest a vibrant and interactive gameplay experience. Below are the key details about the scene:
 
 ## Features:
