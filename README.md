@@ -1,6 +1,6 @@
 <div align="center">
         
-<img src="art/Export/logo.jpg" height="auto" width="200" style="border-radius:50px">
+<img src="art/Export/logo.jpg" style="border-radius:50px">
 
 </div>
 
