@@ -1,7 +1,7 @@
 <div align="center">
-        [![Caveat Manager](art/Export/logo.jpg.jpg)]
+        
+[![doocs-md](art/Export/logo.jpg.jpg)](https://github.com/doocs/md)
+        
 </div>
 
-<h1 align="center">微信 Markdown 编辑器</h1>
-
-[![Caveat Manager](art/Export/background.jpg)]
+![doocs-md](art/Export/background.jpg)](https://github.com/doocs/md)
