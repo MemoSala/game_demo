@@ -1,7 +1,7 @@
 <div align="center">
         
-<kbd> <img src="art/Export/logo.jpg" style="border-radius:50%"> </kbd>
+![Caveat Manager](art/Export/logo.jpg){: style="width:200px"}
 
 </div>
 
-![Caveat Manager](art/Export/background.jpg)
+![Caveat Manager](art/Export/background.jpg){: style="width:200px"}
