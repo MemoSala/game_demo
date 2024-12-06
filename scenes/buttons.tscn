@@ -1,0 +1,64 @@
+[gd_scene load_steps=5 format=3 uid="uid://db0y08agiq8ww"]
+
+[ext_resource type="Script" path="res://scripts/buttons.gd" id="1_ta7mr"]
+[ext_resource type="Texture2D" uid="uid://cpkwck5luv433" path="res://art/up-arrow_6096608.png" id="2_g7y2r"]
+[ext_resource type="Texture2D" uid="uid://dy02m7e14ytwg" path="res://art/refresh_4646086.png" id="3_tvdr2"]
+[ext_resource type="Texture2D" uid="uid://dm4wl6vvbg8au" path="res://art/cross_14793290.png" id="4_arejk"]
+
+[node name="Buttons" type="CanvasLayer"]
+offset = Vector2(-170, -300)
+scale = Vector2(2.65, 2.65)
+transform = Transform2D(2.65, 0, 0, 2.65, -170, -300)
+script = ExtResource("1_ta7mr")
+
+[node name="left2" type="TouchScreenButton" parent="."]
+position = Vector2(421, 342)
+rotation = -1.5708
+scale = Vector2(0.08, 0.08)
+texture_normal = ExtResource("2_g7y2r")
+action = "ui_left"
+
+[node name="right2" type="TouchScreenButton" parent="."]
+position = Vector2(533, 301)
+rotation = 1.5708
+scale = Vector2(0.08, 0.08)
+texture_normal = ExtResource("2_g7y2r")
+action = "ui_right"
+
+[node name="up2" type="TouchScreenButton" parent="."]
+position = Vector2(457, 262)
+scale = Vector2(0.08, 0.08)
+texture_normal = ExtResource("2_g7y2r")
+action = "ui_up"
+
+[node name="down2" type="TouchScreenButton" parent="."]
+position = Vector2(498, 379)
+rotation = -3.14159
+scale = Vector2(0.08, 0.08)
+texture_normal = ExtResource("2_g7y2r")
+action = "ui_down"
+
+[node name="refresh2" type="TouchScreenButton" parent="."]
+position = Vector2(74, 126)
+scale = Vector2(0.2, 0.2)
+texture_normal = ExtResource("3_tvdr2")
+action = " restart"
+
+[node name="Exit2" type="TouchScreenButton" parent="."]
+visible = false
+position = Vector2(502, 126)
+scale = Vector2(0.2, 0.2)
+texture_normal = ExtResource("4_arejk")
+
+[connection signal="pressed" from="left2" to="." method="_on_left_2_pressed"]
+[connection signal="released" from="left2" to="." method="_on_left_2_released"]
+[connection signal="pressed" from="right2" to="." method="_on_right_2_pressed"]
+[connection signal="released" from="right2" to="." method="_on_right_2_released"]
+[connection signal="pressed" from="up2" to="." method="_on_up_2_pressed"]
+[connection signal="released" from="up2" to="." method="_on_up_2_released"]
+[connection signal="pressed" from="down2" to="." method="_on_down_2_pressed"]
+[connection signal="released" from="down2" to="." method="_on_down_2_released"]
+[connection signal="pressed" from="refresh2" to="." method="_on_refresh_2_pressed"]
+[connection signal="released" from="refresh2" to="." method="_on_refresh_2_released"]
+[connection signal="pressed" from="Exit2" to="." method="_on_exit_2_pressed"]
+[connection signal="released" from="Exit2" to="." method="_on_exit_2_released"]
