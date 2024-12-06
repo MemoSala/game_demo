@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="art/Export/logo.jpg">
 <h1>Demo</h1>
