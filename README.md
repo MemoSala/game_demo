@@ -10,5 +10,9 @@
         height: auto; 
         margin: 10px 0;
     " alt="Logo">
-    <img src="art/Export/background.jpg" alt="Background">
+    <img src="art/Export/background.jpg" style="
+        max-width: 100%;
+        height: auto; 
+        margin: 10px 0;
+    " alt="Background">
 </div>
