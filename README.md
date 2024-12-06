@@ -1,7 +1,7 @@
 <div align="center">
         
-[![Caveat Manager](art/Export/logo.jpg.jpg)](https://github.com/doocs/md)
+![Caveat Manager](art/Export/logo.jpg.jpg)
         
 </div>
 
-![Caveat Manager](art/Export/background.jpg)](https://github.com/doocs/md)
+![Caveat Manager](art/Export/background.jpg)
